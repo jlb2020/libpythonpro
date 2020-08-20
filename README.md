@@ -7,6 +7,10 @@ Link para o curso [Python Pro](https://www.pythonpro.br/)
 
 [![Build Status](https://travis-ci.org/jefersonbernardes/libpythonpro.svg?branch=master)](https://travis-ci.org/jefersonbernardes/libpythonpro)
 
+[![Updates](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/shield.svg)](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/)
+
+[![Python 3](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/)
+
 Suportada versão 3 de Python
 
 Para instalar:
