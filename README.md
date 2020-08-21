@@ -8,6 +8,7 @@ Link para o curso [Python Pro](https://www.pythonpro.br/)
 [![Build Status](https://travis-ci.org/jefersonbernardes/libpythonpro.svg?branch=master)](https://travis-ci.org/jefersonbernardes/libpythonpro)
 [![Updates](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/shield.svg)](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/jefersonbernardes/libpythonpro/)
+[![codecov](https://codecov.io/gh/jefersonbernardes/libpythonpro/branch/master/graph/badge.svg)](https://codecov.io/gh/jefersonbernardes/libpythonpro)
 
 Suportada versão 3 de Python
 
@@ -29,4 +30,4 @@ Tópicos a serem abordados:
 2. Virtualenv
 3. Pip
 4. Flake8
-5. PyTest
+
